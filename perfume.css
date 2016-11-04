@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+ /* FIRST BLOCK */
+
+#first_block {
+    height: auto;
+}
+
+#left_block {
+    width: 70%;
+    background-color: darkgrey;
+    float: left;
+}
+
+#right_block {
+    width: 30%;
+    background-color: blue;
+    float: left;
+    padding-bottom: 697px;
+}
+
+/* CLEAR */
+
+.clear_both{
+    clear: both;    
+}
+
+ /* BEST SELLER */
+
+#best_seller {
+    float: left;
+}
+
+.product {
+    width: 20%;
+    float: left;
+}
+
+/* PRODUCT SHEET */
+
+#product_sheet {
+    background-color: pink;
+}
+
+/* WOMEN SELLERS */
+
+/* MEN SELLERS */
+
+/* NEWLETTER */
+
+/* FOOTER */
+
+/* COPYRIGHT */
+
