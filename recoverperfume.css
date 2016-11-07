@@ -9,8 +9,6 @@ FIRST BLOCK
 
 */
 
-
-
 /*  
 
 
@@ -45,7 +43,7 @@ LEFT BLOCK
     display: inline-block;
 }
 
-#login ul li a{
+#login ul li a {
     color: #636262;
     float: right;
     text-decoration: none;
@@ -95,7 +93,6 @@ LEFT BLOCK
 	padding: 6px;
     text-decoration: none;
     display: inline-block;
-    
 }
 
 .buy_now:hover{
@@ -107,8 +104,8 @@ LEFT BLOCK
 buy_now a href:hover{
     text-decoration: none;
     list-style: none;
-    
 }
+
 #jasmin_pic {
     float: left;
     width: 50%;
@@ -120,7 +117,6 @@ buy_now a href:hover{
 
 .sub_footer {
     text-align: center;
-    
 }
 
 /* 
@@ -207,7 +203,7 @@ SIDE NAV
     position: absolute;
     top: 0;
     right: 25px;
-    font-size: 36px;
+    font-size: 50px;
     margin-left: 50px;
 }
 
@@ -219,6 +215,7 @@ SIDE NAV
     margin-right: 27px;
     text-decoration: none;
 }
+
 /* 
 
 CLEAR
@@ -241,7 +238,6 @@ BEST SELLER
     float: left;
     width: 100%;
     padding-top: 30px;
-
 }
 
 #product_nav_box h1 {
@@ -304,20 +300,19 @@ BEST SELLER
   color: rgb(73, 73, 73);
   padding-bottom: 15px;
 }
+
 /* 
 
 PRODUCT SHEET
 
 */
 
-
 #product_sheet {
    
     height: 700px;
     position: relative;
     background-image: url("background/product_sheet.jpg");
-    background-size: cover;
-    
+    background-size: cover;    
 }
 
 #product_sheet h1 {
@@ -338,7 +333,6 @@ PRODUCT SHEET
     margin-left: 30px;
 }
 
-
 #product_box {
     background-color: white;
     width: 25%;
@@ -348,8 +342,6 @@ PRODUCT SHEET
     text-align: center;
     box-shadow: 2px 2px 10px 0px #656565;
 }
-
-
 
 #product_box h2 {
   font-size: 32px;
@@ -383,12 +375,11 @@ PRODUCT SHEET
 } 
 
 
-/* WOMEN SELLERS */
+/* WOMEN & MEN SELLERS */
+
 #top_sellers {
     padding-top: 20px;
 }
-
-/* MEN SELLERS */
 
 /* NEWLETTER */
 
@@ -427,8 +418,7 @@ PRODUCT SHEET
 	width: 140px;
 	padding: 6px;
     margin-top: 20px;
-    text-decoration: none;
-    
+    text-decoration: none;    
 }
 
 
@@ -472,7 +462,6 @@ PRODUCT SHEET
     font-size: 12px;
 }
 
-
 .categorie ul li a:hover {
     color: white;
     list-style: none;
@@ -494,10 +483,10 @@ PRODUCT SHEET
 .categorie ul li a img {
     margin: 10px;
 }
+
 /* COPYRIGHT */
 
 #copyright p {
-    
     background-color: #141518;
     color: #636365;
     margin-top: 0;
@@ -508,8 +497,4 @@ PRODUCT SHEET
 #copyright {
     background-color: #141518;
     height: 40px;
-}
-
-/* SIDE MENU */
-
- 
+} 
